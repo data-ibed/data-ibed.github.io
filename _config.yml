@@ -1,0 +1,39 @@
+# Site settings
+title:       Data curation at IBED
+email:       data.ibed@gmail.com
+author:      staff & students at IBED
+description: "This is where we collect useful info for data curation"
+baseurl:     ""
+url:         "http://data-ibed.github.io/"
+
+# Google analytics
+google_analytics: UA-84262933-1
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: 
+
+# Social icons
+show_social_icons: false
+github_username: data-ibed
+stackoverflow_id:
+twitter_username: 
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+markdown:     kramdown
+kramdown:
+input:        GFM
+permalink:    pretty
+paginate:     3
+sass:
+compressed:   true
