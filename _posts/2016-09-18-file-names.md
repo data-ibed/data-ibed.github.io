@@ -2,15 +2,14 @@
 layout: post
 title:  "What's in a name?"
 date:   2016-09-18
-summary: "We have all quite a bit of experience in naming files and folders on our computer. We like to think of ourselves as smart persons as well. So you'd expect we are quite effective and intelligent in the way we name our digital material ..."
+summary: "We all have a bit of experience in naming files and folders on our computers. So you'd expect we are quite effective and intelligent in the way we name our digital material ..."
 category: general
 ---
 
 A good strategy for naming files and folders helps a lot to be effient as a scientist. Well-organised file and folder names make it easier to find and keep track of information. Moreover good names can provide useful cues to the content and status of a file. In fact, this applies to all digital material and not just research data.
 
-{% include image.html img="/images/file_names.gif" class="shadow" style="width:500px;" alt="css-theme" caption="If this list looks somewhat familar, this post is indeed meant for you. But also if things are not this dramatic: there are small and bigger things to improve!
-Image from PhD comics (http://www.phdcomics.com/comics.php?f=1323)
-" %}
+{% include image.html img="/images/file_names.gif" class="shadow" style="width:500px;" alt="css-theme" caption="If this list looks somewhat familar, this post is indeed meant for you. But also if things are less dramatic: there are always things to improve!
+image from http://www.phdcomics.com/comics.php?f=1323 "%}
 
 Elements that are often useful in file and folder names are acronyms of a project or variable, researchers’ initials, file type information, a version number and date. An often overlooked aspect in projects where multiple persons collaborate is the need to think a bit about file names and a folder structure, write it down and stick to this convention.
 
